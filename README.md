@@ -27,6 +27,6 @@ An average study suggests that GCS shows **9.23%** increase in s A and **26.05%*
 
 ##### P.S.
 **1. This repo contains only the code for the BPF**
-**2. Ensure that you have installed Matlab and have CPU with sufficient RAM (>=4GB)
+**2. Ensure that you have installed Matlab and have CPU with sufficient RAM (>=4GB)**
 
 
