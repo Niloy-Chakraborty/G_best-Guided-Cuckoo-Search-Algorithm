@@ -5,7 +5,7 @@ This is a part of my Bachelor Project.
 
 #### Abstract: 
 -------------
-This Repository presents an efficient design of **Finite Impulse Response (FIR) filter** using **G-bestguided Cuckoo Search (GCS)** algorithm. To reduce the parameter dependency in traditional **Cuckoo Search Algorithm (CSA)** as well as better searching of optimal coefficient in the filter designing problems, some modification in the approach of CSA is done in the proposed GCS, which results in a noteworthy faster convergence with an optimal solution. Here, both low-pass and band-pass filters have been designed, for both Type1 and Type 2 FIR, using **GCS**, **CSA**, and **Artificial Bee Colony (ABC)** algorithm.
+This Repository presents an efficient design of **Finite Impulse Response (FIR) filter** using **G-best guided Cuckoo Search (GCS)** algorithm. To reduce the parameter dependency in traditional **Cuckoo Search Algorithm (CSA)** as well as better searching of optimal coefficient in the filter designing problems, some modification in the approach of CSA is done in the proposed GCS, which results in a noteworthy faster convergence with an optimal solution. Here, both low-pass and band-pass filters have been designed, for both Type1 and Type 2 FIR, using **GCS**, **CSA**, and **Artificial Bee Colony (ABC)** algorithm.
 
 #### Result:
 -------------
