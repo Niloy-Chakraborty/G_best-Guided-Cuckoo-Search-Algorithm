@@ -25,5 +25,8 @@ An average study suggests that GCS shows **9.23%** increase in s A and **26.05%*
 4. Artificial Bee Colony codes are available as well. Go to [here](https://github.com/Niloy-Chakraborty/G_best-Guided-Cuckoo-Search-Algorithm/tree/master/Type1%20Band%20Pass%20Filter/type%201%20abc%20band%20pass%20order) for Type 1 BPF and [here](https://github.com/Niloy-Chakraborty/G_best-Guided-Cuckoo-Search-Algorithm/tree/master/Type2%20Band%20Pass%20Filter/ABC%20Type%202%20bp%20order) for Type 2 BPF
 
 
-##### P.S. This repo contains only the code for the BPF 
+##### P.S.
+**1. This repo contains only the code for the BPF**
+**2. Ensure that you have installed Matlab and have CPU with sufficient RAM (>=4GB)
+
 
