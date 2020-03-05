@@ -1,7 +1,7 @@
 
 ### Efficient Design of FIR filter using G_best Guided Cuckoo Search Algorithm
 
-This is a part of my Bachelor Project. 
+This work is a part of my Bachelor Thesis. 
 
 #### Abstract: 
 -------------
